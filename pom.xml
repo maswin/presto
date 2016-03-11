@@ -99,6 +99,7 @@
         <module>presto-docs</module>
         <module>presto-verifier</module>
         <module>presto-testing-server-launcher</module>
+        <module>presto-monetdb</module>
     </modules>
 
     <dependencyManagement>
